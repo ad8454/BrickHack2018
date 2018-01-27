@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "55833727036",
+    "firebase_url": "https://safehive-ad8454.firebaseio.com",
+    "project_id": "safehive-ad8454",
+    "storage_bucket": "safehive-ad8454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55833727036:android:5623d0e052dcc79b",
+        "android_client_info": {
+          "package_name": "edu.rit.whereisritz.brickhack4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55833727036-n6fo0hacu8mv5jondqftrqau9p6nhe3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC02BZShGWjDGdCtpVKyH0OqVYOXwvuCEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
